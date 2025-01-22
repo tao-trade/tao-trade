@@ -171,5 +171,4 @@ cython_debug/
 .pypirc
 
 # User Data
-.user_data/*
 user_data/database.sqlite
